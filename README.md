@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Computer Science
 
-
+<img alt=".NET" src="https://img.shields.io/badge/-.NET-blueviolet?logo=dotnet"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
